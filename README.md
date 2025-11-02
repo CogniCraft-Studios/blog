@@ -1,0 +1,2 @@
+# blog
+Ai written blogs
